@@ -1,0 +1,26 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "effort"
+  },
+  "title": {
+    "__TYPE__": "FieldContent",
+    "value": "wife",
+    "type": "Text"
+  },
+  "content": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Culpa magna dolor eiusmod fugiat quis tempor pariatur id qui occaecat reprehenderit eiusmod. Reprehenderit enim occaecat voluptate voluptate sunt dolor ullamco laborum quis aliqua laboris incididunt occaecat duis. Nulla deserunt qui sint esse nostrud."
+        }
+      }
+    ]
+  },
+  "slices": {
+    "__TYPE__": "SliceContentType",
+    "value": []
+  }
+}
